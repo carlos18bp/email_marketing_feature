@@ -1,13 +1,4 @@
 db.sqlite3
-email_marketing_feature_app/__pycache__/
-email_marketing_feature_app/management/commands/__pycache__/
-email_marketing_feature_app/migrations/__pycache__/
-email_marketing_feature_app/models/__pycache__/
-email_marketing_feature_app/serializers/__pycache__/
-email_marketing_feature_app/views/__pycache__/
-email_marketing_feature_app/utils/__pycache__/
-email_marketing_feature_app_project/__pycache__/
-media/blog_images
-media/product_images
-media/user_images
-media/email_images
+__pycache__/
+media/
+!media/temp
